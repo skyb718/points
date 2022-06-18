@@ -1,0 +1,75 @@
+body {
+    color: white;
+    background-color: #1B244A; 
+    margin: auto;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#h_point1{
+color: #9AABD8;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+background-color: #1B244A;
+}
+#h_point2{
+color: #9AABD8;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+background-color: #1B244A;
+}
+#h_point3{
+color: #9AABD8;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+background-color: #1B244A;
+}
+#g_point1{
+color: #9AABD8;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+background-color: #1B244A;     
+}
+#g_point2{
+color: #9AABD8;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+background-color: #1B244A;
+}
+#g_point3{
+color: #9AABD8;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+background-color: #1B244A;
+}
+
+#h_score{ 
+font-family:'Orbitron', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 1px;
+text-align: center;
+color: red;
+border: solid black 50px; 
+border-radius: 5px; 
+background-color: black;
+margin:  20px;
+}
+#g_score{
+font-family:'Orbitron', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 1px;
+text-align: center;
+color: red;
+border: solid black 50px; 
+border-radius: 5px; 
+background-color: black;
+margin:  20px;
+}
